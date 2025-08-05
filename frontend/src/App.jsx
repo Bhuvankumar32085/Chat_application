@@ -64,7 +64,7 @@ function App() {
 
   useEffect(() => {
     if (isLoggedIn) {
-      const socket = io("http://localhost:5002", {
+      const socket = io("https://chat-application-s3ml.onrender.com", {
         query: {
           userId: loginUser?._id, //ue backend me (socket.handshake.query.userId) es se mile gi
         },
