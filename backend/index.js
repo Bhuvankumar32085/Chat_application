@@ -17,7 +17,7 @@ const __dirname = path.resolve();
 // Middleware
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://chat-application-s3ml.onrender.com",
     credentials: true,
   })
 );

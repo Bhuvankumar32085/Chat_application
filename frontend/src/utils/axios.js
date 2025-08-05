@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-  baseURL: "http://localhost:5002/api",
+  baseURL: "https://chat-application-s3ml.onrender.com/api",
   withCredentials: true,
 });
 
