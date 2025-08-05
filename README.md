@@ -23,16 +23,3 @@ A real-time chat application built with **React.js**, **DaisyUI**, and **Node.js
 | DaisyUI      | Express.js   | Mongoose      |              |
 | Tailwind CSS | JWT/Auth     |               |              |
 
----
-
-## 📸 Screenshots
-
-| Login | Chat Interface |
-|-------|----------------|
-| ![Login](./screenshots/login.png) | ![Chat](./screenshots/chat.png) |
-
-> *💡 Add your own screenshots in a `/screenshots` folder*
-
----
-
-## 🧑‍💻 Getting Started
